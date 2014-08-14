@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>km</groupId>
-    <artifactId>maven-groovy-sample</artifactId>
+    <artifactId>maven-groovy-samples</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
 
-    <name>maven-groovy-sample</name>
+    <name>maven-groovy-samples</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
